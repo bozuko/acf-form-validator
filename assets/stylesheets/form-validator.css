@@ -1,0 +1,27 @@
+.acf-form-validator-ui table.validator-fields {
+  width: 100%;
+}
+
+.acf-form-validator-ui table.validator-fields th {
+  width: 140px;
+  font-weight: bold;
+  border: 0;
+}
+
+.acf-form-validator-ui table.validator-fields th em {
+  display: inline-block;
+  padding: 0px 2px;
+  line-height: 1.3em;
+  font-size: .8em;
+  background: #d8d8d8;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  font-style: normal;
+  color: #666;
+  font-weight: normal;
+}
+
+.acf-form-validator-ui table.validator-fields th,
+.acf-form-validator-ui table.validator-fields td {
+  padding: 3px 6px;
+}
